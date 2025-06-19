@@ -1,6 +1,6 @@
 # Mycenaean-Balkans-Bronze-Project
 
-This repository contains the full digital product and scientific report for the MA Project submitted for the Digital Archaeology and Heritage (DAH) track of UvA.
+This repository contains the full digital product for the MA Project submitted for the Digital Archaeology and Heritage (DAH) track of UvA.
 
 ## Project Summary
 
