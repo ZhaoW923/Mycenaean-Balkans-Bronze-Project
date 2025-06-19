@@ -1,0 +1,17 @@
+id,from_name,from_lat,from_lon,to_name,to_lat,to_lon,note
+1,Cyprus,35.1264,33.4299,Sardinia,39.2238,9.1217,Metal from Cyprus
+2,Cyprus,35.1264,33.4299,Kamenovo,43.3833,27.9,Metal from Cyprus
+3,Cyprus,35.1264,33.4299,Yabalkovo,42.2833,25.9333,Metal from Cyprus
+4,Cyprus,35.1264,33.4299,Cernozem,42.5,25.5,Metal from Cyprus
+5,Cyprus,35.1264,33.4299,Kirilovo,42.6833,26.3333,Metal from Cyprus
+6,Cyprus,35.1264,33.4299,Cerkovo,42.5,25,Metal from Cyprus
+7,Cyprus,35.1264,33.4299,Tetovo,42.0042,20.9706,Metal from Cyprus
+8,Cyprus,35.1264,33.4299,Paleznica hoard,43.5,19,Metal from Cyprus
+9,Cyprus,35.1264,33.4299,Klicevac-Rastovaca hoard,44.7333,21,Metal from Cyprus
+10,Mycenae,37.7303,22.7575,Tetovo,42.0042,21,Artifacts with Mycenaen style
+11,Mycenae,37.7303,22.7575,Brnjica,43.286,20.195,Artifacts with Mycenaen style
+12,Mycenae,37.7303,22.7575,Babusnica,43.0594,22.4117,Artifacts with Mycenaen style
+13,Mycenae,37.7303,22.7575,Juzna Morava Valley,43.6906,21.402,Artifacts with Mycenaen style
+14,Transylvania,46.7667,23.5833,Mycenae,37.7303,22.7575,Silver came from ore in Transylvania
+15,Southern Alps,46,11,Western and central Balkans,43.3196,21.8963,Main metal source for the western and central Balkans
+16,Taurus Mountains,37,35,Greece,37.7303,22.7575,Main source of tin for the Aegean

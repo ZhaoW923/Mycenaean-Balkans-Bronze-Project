@@ -1,0 +1,44 @@
+Label,Type,Country,Degree,Component ID,Modularity Class,Eigenvector Centrality
+Arrowheads,item,,1,3,3,0.059922468
+Axes,item,,1,2,0,0.009984517
+Bone cylinders,item,,1,6,6,0.009984517
+Bronze items,item,,4,1,2,0.122995072
+Chariots,item,,1,4,4,0.009984517
+Cheekpieces,item,,3,1,2,0.086527822
+Ingots,item,,11,0,1,1
+Pottery,item,,3,7,7,0.055656918
+Rapier,item,,1,3,3,0.059922468
+Spearheads,item,,1,5,5,0.009984517
+Swords,item,,7,3,3,0.366166435
+Babusnica,site,Serbia,1,1,2,0.056209766
+Banat,site,Romania/Serbia/Hungary,1,1,2,0.056209766
+Brnjica,site,Serbia,2,3,3,0.159133921
+Burrel,site,Albania,1,3,3,0.134432417
+Cerkovna,site,Bulgaria,1,7,7,0.03188311
+Cerkovo,site,Bulgaria,1,0,1,0.301416938
+Cernozem,site,Bulgaria,1,0,1,0.301416938
+Costisa,site,Romania,1,6,6,0.009984517
+Crete,site,Greece,1,0,1,0.301416938
+Dupljaja,site,Serbia,1,4,4,0.009984517
+Germenj,site,Albania,1,3,3,0.134432417
+Hajdusamson,site,Hungary,1,5,5,0.009984517
+Juzna Morava Valley,site,Serbia,1,2,0,0.009984517
+Kamenovo,site,Bulgaria,1,0,1,0.301416938
+Kirilovo,site,Bulgaria,1,0,1,0.301416938
+Klicevac-Rastovaca hoard,site,Serbia,1,0,1,0.301416938
+Klostar Ivanic,site,Croatia,1,0,1,0.301416938
+Komsi,site,Albania,1,3,3,0.134432417
+Lglarevo,site,Kosovo,1,3,3,0.134432417
+Makarska,site,Croatia,1,0,1,0.301416938
+Mycenae,site,Greece,2,1,2,0.097778302
+Oarta de Sus,site,Romania,1,1,2,0.041568536
+Paleznica hoard,site,Bosnia,1,0,1,0.301416938
+Plovdiv,site,Bulgaria,1,7,7,0.03188311
+Sarata Monteoru,site,Romania,1,1,2,0.041568536
+Tetovo,site,North Macedonia,2,3,3,0.159133921
+Transylvania,site,Romania,1,0,1,0.301416938
+Varibop,site,Albania,1,3,3,0.134432417
+Wallachia,site,Romania,1,1,2,0.056209766
+Yabalkovo,site,Bulgaria,1,0,1,0.301416938
+Zimnicea,site,Romania,1,7,7,0.03188311
+,,,,,,

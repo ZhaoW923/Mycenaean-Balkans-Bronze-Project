@@ -1,0 +1,58 @@
+ID,Site_Name,Longitude,Latitude,Note
+1,Crete,24.53,35.4174,Metal Item Discovered
+2,Mycenae,22.7575,37.7303,Metal Item Discovered
+3,Wallachia,26,44.4167,Metal Item Discovered
+4,Apuseni Mountains,22.5,46.5,Mines
+5,Transylvania,23.5833,46.7667,Metal Item Discovered
+6,Juzna Morava Valley,21.402,43.6906,Metal Item Discovered
+7,Babusnica,22.4117,43.0594,Metal Item Discovered
+8,Brnjica,20.195,43.286,Metal Item Discovered
+9,Klicevac-Rastovaca hoard,21,44.7333,Metal Item Discovered
+10,Valjevo,19.8981,44.2751,Mines
+11,Rudnik,20.5403,44.1414,Mines
+12,Bor,22.0959,44.0749,Mines
+13,Paracin,21.4078,43.8608,Mines
+14,Tekeris,19.5297,44.5572,Mines
+15,Loznica,19.2222,44.5333,Mines
+16,Bela Crkva,22.6167,44.6167,Mines
+17,Cer,19.5,44.4,Mines
+18,Jadar Valley,19.5,44,Metal Item Discovered
+19,Paleznica hoard,19,43.5,Metal Item Discovered
+20,Tetovo,20.9706,42.0042,Metal Item Discovered
+21,Banat,21,45.5,Metal Item Discovered
+22,Cerkovo,25,42.5,Metal Item Discovered
+23,Kirilovo,26.3333,42.6833,Metal Item Discovered
+24,Cernozem,25.5,42.5,Metal Item Discovered
+25,Yabalkovo,25.9333,42.2833,Metal Item Discovered
+26,Kamenovo,27.9,43.3833,Metal Item Discovered
+27,Taurus Mountains,35,37,Mines
+28,Makarska,17.0183,43.2967,Metal Item Discovered
+29,Klostar Ivanic,16.4167,45.6167,Metal Item Discovered
+30,Sardinia,9.1217,39.2238,Metal Item Discovered
+31,Southern Alps,11,46,Mines
+32,Cyprus,33.4299,35.1264,Metal Item Discovered
+33,Burrel,20.0089,41.6103,Metal Item Discovered
+34,Germenj,20.2964,40.4556,Metal Item Discovered
+35,Komsi,19.9833,41.5833,Metal Item Discovered
+36,Varibop,19.578,40.598,Metal Item Discovered
+37,Lglarevo,20.668569,42.592556,Metal Item Discovered
+38,Sarata Monteoru,26.3829,45.857,Shared Item Style
+39,Oarta de Sus,23.044,47.2805,Shared Item Style
+40,Grave Circle A,22.4522,37.4349,Shared Item Style
+41,Alaca Huyuk,34.4144,40.1404,Shared Item Style
+42,Dupljaja,21.1623,44.5522,Shared Technology
+43,Hajdusamson,21.46,47.36,Shared Item Style
+44,Costisa,26.4,46.45,Shared Item Style
+45,Morava valley,21.24719,43.413419,Shared Technology
+46,Donja Brnjica,21.0813,42.4216,Shared Burial Customs
+47,Kastanas,22.395,40.491,Shared Burial Customs
+48,Klucka cemetery,21.43141,41.99646,Shared Burial Customs
+49,Vergina,22.19,40.29,Shared Burial Customs
+50,Torone,23.8994,39.9811,Shared Burial Customs
+51,Kerameikos,23.7193,37.9764,Shared Burial Customs
+52,Thessaly,22.2,39.6,Shared Burial Customs
+53,Hisar Hill,21.936212,42.99096,Similar Settlement Patterns
+54,Vardarski Rid,22.3113,41.855,Similar Settlement Patterns
+55,Cerkovna,27.196,43.12,Shared Item Style
+56,Plovdiv,24.45,42.9,Shared Item Style
+57,Zimnicea,25.225,43.398,Shared Item Style

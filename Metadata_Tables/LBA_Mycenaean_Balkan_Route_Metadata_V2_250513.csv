@@ -1,0 +1,40 @@
+id,from_name,from_lat,from_lon,to_name,to_lat,to_lon,note
+1,Cyprus,35.1264,33.4299,Sardinia,39.2238,9.1217,Metal transfer
+2,Cyprus,35.1264,33.4299,Kamenovo,43.3833,27.9,Metal transfer
+3,Cyprus,35.1264,33.4299,Yabalkovo,42.2833,25.9333,Metal transfer
+4,Cyprus,35.1264,33.4299,Cernozem,42.5,25.5,Metal transfer
+5,Cyprus,35.1264,33.4299,Kirilovo,42.6833,26.3333,Metal transfer
+6,Cyprus,35.1264,33.4299,Cerkovo,42.5,25,Metal transfer
+7,Cyprus,35.1264,33.4299,Tetovo,42.0042,20.9706,Metal transfer
+8,Cyprus,35.1264,33.4299,Paleznica hoard,43.5,19,Metal transfer
+9,Cyprus,35.1264,33.4299,Klicevac-Rastovaca hoard,44.7333,21,Metal transfer
+10,Mycenae,37.7303,22.7575,Tetovo,42.0042,20.9706,Shared decoration style
+11,Mycenae,37.7303,22.7575,Brnjica,43.286,20.195,Shared decoration style
+12,Mycenae,37.7303,22.7575,Babusnica,43.0594,22.4117,Shared decoration style
+13,Mycenae,37.7303,22.7575,Juzna Morava Valley,43.6906,21.402,Shared decoration style
+14,Transylvania,46.7667,23.5833,Mycenae,37.7303,22.7575,Metal transfer
+15,Southern Alps,46,11,Western and central Balkans,43.3196,21.8963,Metal transfer
+16,Taurus Mountains,37,35,Greece,37.7303,22.7575,Metal transfer
+17,Greece,37.7303,22.7575,Burrel,41.6103,20.0089,Shared decoration style
+18,Greece,37.7303,22.7575,Germenj,40.4556,20.2964,Shared decoration style
+19,Greece,37.7303,22.7575,Komsi,41.5833,19.9833,Shared decoration style
+20,Greece,37.7303,22.7575,Varibop,40.598,19.578,Shared decoration style
+21,Greece,37.7303,22.7575,Lglarevo,42.592556,20.668569,Shared decoration style
+22,Alaca Huyuk,40.1404,34.4144,Sarata Monteoru,45.857,26.3829,Technology spread
+23,Sarata Monteoru,45.857,26.3829,Mycenae,37.7303,22.7575,Technology spread
+24,Alaca Huyuk,40.1404,34.4144,Oarta de Sus,47.2805,23.044,Technology spread
+25,Oarta de Sus,47.2805,23.044,Mycenae,37.7303,22.7575,Technology spread
+26,Dupljaja,44.5522,21.1623,Mycenae,37.7303,22.7575,Technology spread
+27,Mycenae,37.7303,22.7575,Hajdusamson,47.36,21.46,Technology spread
+28,Mycenae,37.7303,22.7575,Costisa,46.45,26.4,Shared decoration style
+29,Morava valley,43.413419,21.24719,Mycenae,37.7303,22.7575,Technology spread
+30,Donja Brnjica,42.4216,21.0813,Kastanas,40.491,22.395,Shared Burial Customs
+31,Greece,37.7303,22.7575,Klucka,41.99646,21.43141,Shared Burial Customs
+32,Balkans,41.8,21.3,Vergina,40.29,22.19,Shared Burial Customs
+33,Balkans,41.8,21.3,Torone,39.9811,23.8994,Shared Burial Customs
+34,Balkans,41.8,21.3,Kerameikos,37.9764,23.7193,Shared Burial Customs
+35,Balkans,41.8,21.3,Thessaly,39.6,22.2,Shared Burial Customs
+36,Vardarski Rid,41.855,22.3113,Hisar Hill,42.99096,21.936212,Shared Settlement Patterns
+37,Northern Greece,40.6,22.9,Cerkovna,43.12,27.196,Technology spread
+38,Northern Greece,40.6,22.9,Plovdiv,42.9,24.45,Technology spread
+39,Northern Greece,40.6,22.9,Zimnicea,43.398,25.225,Technology spread
