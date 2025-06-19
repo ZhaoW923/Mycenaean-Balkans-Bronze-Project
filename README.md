@@ -9,8 +9,8 @@ This project shows the distribution of Mycenaean-style bronze objects, resource 
 ## Repository Structure
 
 - `GIS/`: Five iterative versions of the QGIS project file used for spatial analysis.
-- `Network/`: Gephi project and source CSV files used for two-mode network visualizations.
 - `Metadata_Tables/`: Raw and processed data tables, including site metadata, artifact records, and cultural features.
+- `Network/`: Gephi project and source CSV files used for two-mode network visualizations.
 - `Visuals/`: Output maps and summary tables used in the report and visualizations.
 
 ## How to Use
