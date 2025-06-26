@@ -1,0 +1,58 @@
+ID,Site_Name,Country,Note
+1,Crete,Greece,Metal Item Discovered
+2,Mycenae,Greece,Metal Item Discovered
+3,Wallachia,Romania,Metal Item Discovered
+4,Apuseni Mountains,Romania,Mines
+5,Transylvania,Romania,Metal Item Discovered
+6,Juzna Morava Valley,Serbia,Metal Item Discovered
+7,Babusnica,Serbia,Metal Item Discovered
+8,Brnjica,Serbia,Metal Item Discovered
+9,Klicevac-Rastovaca hoard,Serbia,Metal Item Discovered
+10,Valjevo,Serbia,Mines
+11,Rudnik,Serbia,Mines
+12,Bor,Serbia,Mines
+13,Paracin,Serbia,Mines
+14,Tekeris,Serbia,Mines
+15,Loznica,Serbia,Mines
+16,Bela Crkva,Serbia,Mines
+17,Cer,Serbia,Mines
+18,Jadar Valley,Serbia,Metal Item Discovered
+19,Paleznica hoard,Bosnia,Metal Item Discovered
+20,Tetovo,North Macedonia,Metal Item Discovered
+21,Banat,Romania/Serbia/Hungary,Metal Item Discovered
+22,Cerkovo,Bulgaria,Metal Item Discovered
+23,Kirilovo,Bulgaria,Metal Item Discovered
+24,Cernozem,Bulgaria,Metal Item Discovered
+25,Yabalkovo,Bulgaria,Metal Item Discovered
+26,Kamenovo,Bulgaria,Metal Item Discovered
+27,Taurus Mountains,Turkey,Mines
+28,Makarska,Croatia,Metal Item Discovered
+29,Klostar Ivanic,Croatia,Metal Item Discovered
+30,Sardinia,Italy,Metal Item Discovered
+31,Southern Alps,Italy,Mines
+32,Cyprus,Cyprus,Metal Item Discovered
+33,Burrel,Albania,Metal Item Discovered
+34,Germenj,Albania,Metal Item Discovered
+35,Komsi,Albania,Metal Item Discovered
+36,Varibop,Albania,Metal Item Discovered
+37,Lglarevo,Kosovo,Metal Item Discovered
+38,Sarata Monteoru,Romania,Shared Item Style
+39,Oarta de Sus,Romania,Shared Item Style
+40,Grave Circle A,Greece,Shared Item Style
+41,Alaca Huyuk,Turkey,Shared Item Style
+42,Dupljaja,Serbia,Shared Technology
+43,Hajdusamson,Hungary,Shared Item Style
+44,Costisa,Romania,Shared Item Style
+45,Morava valley,Serbia,Shared Technology
+46,Donja Brnjica,Serbia,Shared Burial Customs
+47,Kastanas,Greece,Shared Burial Customs
+48,Klucka cemetery,North Macedonia,Shared Burial Customs
+49,Vergina,Greece,Shared Burial Customs
+50,Torone,Greece,Shared Burial Customs
+51,Kerameikos,Greece,Shared Burial Customs
+52,Thessaly,Greece,Shared Burial Customs
+53,Hisar Hill,Serbia,Similar Settlement Patterns
+54,Vardarski Rid,North Macedonia,Similar Settlement Patterns
+55,Cerkovna,Bulgaria,Shared Item Style
+56,Plovdiv,Bulgaria,Shared Item Style
+57,Zimnicea,Romania,Shared Item Style
