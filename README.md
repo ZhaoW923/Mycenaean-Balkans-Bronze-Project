@@ -19,4 +19,4 @@ This project shows the distribution of Mycenaean-style bronze objects, resource 
 - Open the `.qgz` files in QGIS.
 - Use Gephi to explore the `.gephi` file and CSV node/edge data.
 - Refer to the README files in subfolders for detailed metadata and development notes.
-- Check the final version of the scientific report `ZhaoW_ProjectReport_20250630` submitted for this project (PDF format).
+- Check the final version of the scientific report `ZhaoW_ProjectReport_20250630.pdf` submitted for this project.
