@@ -9,6 +9,7 @@ This project shows the distribution of Mycenaean-style bronze objects, resource 
 ## Repository Structure
 
 - `GIS/`: Five iterative versions of the QGIS project file used for spatial analysis.
+- `Literature/`: A folder of all referenced literature used in this project (PDFs, for reference only).
 - `Metadata_Tables/`: Raw and processed data tables, including site metadata, artifact records, and cultural features.
 - `Network/`: Gephi project and source CSV files used for two-mode network visualizations.
 - `Visuals/`: Output maps and summary tables used in the report and visualizations.
@@ -18,3 +19,4 @@ This project shows the distribution of Mycenaean-style bronze objects, resource 
 - Open the `.qgz` files in QGIS.
 - Use Gephi to explore the `.gephi` file and CSV node/edge data.
 - Refer to the README files in subfolders for detailed metadata and development notes.
+- Check the final version of the scientific report `ZhaoW_ProjectReport_20250630` submitted for this project (PDF format).
